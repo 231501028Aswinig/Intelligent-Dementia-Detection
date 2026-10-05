@@ -26,3 +26,9 @@ Thumbs.db
 
 # Log files
 *.log
+
+# SQLite Database Files (Local demonstration only - Privacy protection)
+*.db
+*.sqlite3
+database/patients.db
+

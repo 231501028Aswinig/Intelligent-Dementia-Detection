@@ -1,0 +1,6 @@
+patient_id,patient_name,created_at,gender,age,educ_level,ses,mmse,etiv,nwbv,asf,prediction_id,prediction_label,probability,risk_level,model_name,predicted_at
+5,DEMO_PATIENT_005 (Synthetic Advanced),2026-10-05 17:24:24,Male,85.0,2,3.0,15.0,1610.0,0.655,1.09,5,Clinical Dementia (Established Stage),0.978,STAGE: DEMENTIA (CDR 1.0+),RandomForest 3-Class Pipeline,2026-10-05 17:24:24
+4,DEMO_PATIENT_004 (Synthetic Borderline),2026-10-05 17:24:24,Male,69.0,4,2.0,28.0,1560.0,0.735,1.125,4,No Dementia (Cognitively Normal),0.645,STAGE: NORMAL (CDR 0.0),RandomForest 3-Class Pipeline,2026-10-05 17:24:24
+3,DEMO_PATIENT_003 (Synthetic Dementia),2026-10-05 17:24:24,Female,81.0,1,4.0,19.0,1420.0,0.672,1.235,3,Clinical Dementia (Established Stage),0.941,STAGE: DEMENTIA (CDR 1.0+),RandomForest 3-Class Pipeline,2026-10-05 17:24:24
+2,DEMO_PATIENT_002 (Synthetic Mild),2026-10-05 17:24:24,Male,76.0,2,3.0,26.0,1490.0,0.71,1.178,2,Very Mild Dementia (Prodromal Stage),0.712,STAGE: VERY MILD (CDR 0.5),RandomForest 3-Class Pipeline,2026-10-05 17:24:24
+1,DEMO_PATIENT_001 (Synthetic Healthy),2026-10-05 17:24:24,Female,72.0,3,2.0,29.0,1380.0,0.76,1.272,1,No Dementia (Cognitively Normal),0.885,STAGE: NORMAL (CDR 0.0),RandomForest 3-Class Pipeline,2026-10-05 17:24:24
